@@ -1,0 +1,132 @@
+body {
+	background-color: floralwhite;
+	color: black;
+	font-family: system-ui;
+	line-height: 20px;
+	text-align: center;
+
+}
+
+.btn-blue {
+background-color:floralwhite;
+color: black;
+padding: 8px 40px;
+border-radius: 50px;
+}
+
+.btn-blue: white {
+color: floralwhite;
+
+}
+
+h1 {
+	color: darkblue;
+	font-family: system-ui;
+	font-weight: 900;
+	font-size: 32;
+}
+
+
+h2, h3, h4 {
+	color: darkblue;
+	font-family: system-ui;
+	font-weight: 900;
+	font-size: 32;
+}
+a {
+	text-decoration: none;
+	color: #FFDDCC;
+}
+
+a:hover {
+	color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 500%;
+max-width: 100%;
+}
+
+
+#intro {
+background-color:#7897AB;
+border-radius: 50px;
+box-shadow: 10px 10px 20px 10px rgba(0,0,0,.8);
+}
+
+#intro p {
+margin-bottom: 20px;
+border-radius: 50px;
+
+
+
+
+}
+#section2 {
+background-color: #7897AB;
+border-radius: 50px;
+box-shadow: 10px 10px 20px 10px rgba(0,0,0,.8);
+
+}
+
+#section3 {
+background-color: #7897AB;
+border-radius: 50px;
+box-shadow: 10px 10px 20px 10px rgba(0,0,0,.8);
+
+}
+
+#section4 {
+background-color: #7897AB;
+border-radius: 50px;
+box-shadow: 10px 10px 20px 10px rgba(0,0,0,.8);
+
+}
+
+#section5 {
+background-color: white;
+border-radius: 50px;
+box-shadow: 10px 10px 20px 10px rgba(0,0,0,.8);
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+	margin: 70px;
+	border: 12px solid;
+	padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: darkblue;
+}
+
+.list-inline i:hover {
+	color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
